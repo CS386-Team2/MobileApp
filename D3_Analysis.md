@@ -6,5 +6,6 @@ Our application requires our users to use a user-name and password to log in. So
 
 ## Model
 https://github.com/CS386-Team2/MobileApp/blob/master/img/D4.jpg
+
 ## Class Responsibilities 
-We use Usersignup and Userlogin as the basis for users to obtain user addresses through Usergps to provide nearby restaurants. Restaurantmenu and RestaurantInformation provide users with restaurant information to let them choose dishes. Usercart class records what the user has selected. Userbuy class is used for entry payment after user selection. Userpay class is used for user payment. . Purchasehistory records the user's purchase history. HistoryView class is used for users to view historical records.
+We use Usersignup and Userlogin as the basis for users to obtain user addresses through Usergps to provide nearby restaurants. Restaurantmenu and RestaurantInformation provide users with restaurant information to let them choose dishes. Usercart class records what the user has selected. Userpay class is used for user payment. Purchasehistory class records the user's purchase history. Reorder class is used for users to buy foods they bought before.
