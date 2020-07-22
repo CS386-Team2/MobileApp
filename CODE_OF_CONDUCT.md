@@ -5,16 +5,16 @@ If you see a Code of Conduct violation, follow these steps:
 Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s) or commits.
 That person should immediately stop the behavior and correct the issue.
 If this doesn’t happen, or if you're uncomfortable speaking up, contact the maintainers.
-As soon as available, a maintainer will look into the issue, and take further action (see below), starting with a warning, then temporary block, then long-term repo or organization ban.
+As soon as available, a maintainer will look into the issue, and take further action, starting with a warning, then temporary block, then long-term repo or organization ban.
 When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.
 
-The maintainer team will prioritize the well-being and comfort of the recipients of the violation over the comfort of the violator. See some examples below.
+The maintainer team will prioritize the well-being and comfort of the recipients of the violation over the comfort of the violator.
 
-Our Pledge
+## Our Pledge
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers of this project pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, technical preferences, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-Our Standards
-Examples of behavior that contributes to creating a positive environment include:
+## Our Standards
+#### Examples of behavior that contributes to creating a positive environment include:
 
 Using welcoming and inclusive language.
 Being respectful of differing viewpoints and experiences.
@@ -22,7 +22,7 @@ Gracefully accepting constructive feedback.
 Focusing on what is best for the community.
 Showing empathy and kindness towards other community members.
 Encouraging and raising up your peers in the project so you can all bask in hacks and glory.
-Examples of unacceptable behavior by participants include:
+#### Examples of unacceptable behavior by participants include:
 
 The use of sexualized language or imagery and unwelcome sexual attention or advances, including when simulated online. The only exception to sexual topics is channels/spaces specifically for topics of sexual identity.
 Casual mention of slavery or indentured servitude and/or false comparisons of one's occupation or situation to slavery. Please consider using or asking about alternate terminology when referring to such metaphors in technology.
@@ -38,31 +38,17 @@ Unsolicited explanations under the assumption that someone doesn't already know 
 Feigning or exaggerating surprise when someone admits to not knowing something.
 "Well-actuallies"
 Other conduct which could reasonably be considered inappropriate in a professional or community setting.
-Scope
+## Scope
 This Code of Conduct applies both within spaces involving this project and in other spaces involving community members. This includes the repository, its Pull Requests and Issue tracker, its Twitter community, private email communications in the context of the project, and any events where members of the project are participating, as well as adjacent communities and venues affecting the project's members.
 
 Depending on the violation, the maintainers may decide that violations of this code of conduct that have happened outside of the scope of the community may deem an individual unwelcome, and take appropriate action to maintain the comfort and safety of its members.
 
-Other Community Standards
-As a project on GitHub, this project is additionally covered by the GitHub Community Guidelines.
-
-Additionally, as a project hosted on npm, it is covered by npm, Inc's Code of Conduct.
-
-Enforcement of those guidelines after violations overlapping with the above are the responsibility of the entities, and enforcement may happen in any or all of the services/communities.
-
-Maintainer Enforcement Process
+## Maintainer Enforcement Process
 Once the maintainers get involved, they will follow a documented series of steps and do their best to preserve the well-being of project members. This section covers actual concrete steps.
 
-Contacting Maintainers
-You may get in touch with the maintainer team through any of the following methods:
-
-Through email:
-
-kzm@sykosomatic.org (Kat Marchán)
-Through Twitter:
-
-@maybekatz (Kat Marchán)
-Further Enforcement
+## Contacting Maintainers
+You may get in touch with the maintainer team through any of the following E-mail: kc2778@nau.edu
+## Further Enforcement
 If you've already followed the initial enforcement steps, these are the steps maintainers will take for further enforcement, as needed:
 
 Repeat the request to stop.
@@ -75,52 +61,5 @@ Maintainers reserve full rights to skip any of these steps, at their discretion,
 
 Members expelled from events or venues with any sort of paid attendance will not be refunded.
 
-Who Watches the Watchers?
-Maintainers and other leaders who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership. These may include anything from removal from the maintainer team to a permanent ban from the community.
-
-Additionally, as a project hosted on both GitHub and npm, their own Codes of Conducts may be applied against maintainers of this project, externally of this project's procedures.
-
-Enforcement Examples
-The Best Case
-The vast majority of situations work out like this. This interaction is common, and generally positive.
-
-Alex: "Yeah I used X and it was really crazy!"
-
-Patt (not a maintainer): "Hey, could you not use that word? What about 'ridiculous' instead?"
-
-Alex: "oh sorry, sure." -> edits old comment to say "it was really confusing!"
-
-The Maintainer Case
-Sometimes, though, you need to get maintainers involved. Maintainers will do their best to resolve conflicts, but people who were harmed by something will take priority.
-
-Patt: "Honestly, sometimes I just really hate using $library and anyone who uses it probably sucks at their job."
-
-Alex: "Whoa there, could you dial it back a bit? There's a CoC thing about attacking folks' tech use like that."
-
-Patt: "I'm not attacking anyone, what's your problem?"
-
-Alex: "@maintainers hey uh. Can someone look at this issue? Patt is getting a bit aggro. I tried to nudge them about it, but nope."
-
-KeeperOfCommitBits: (on issue) "Hey Patt, maintainer here. Could you tone it down? This sort of attack is really not okay in this space."
-
-Patt: "Leave me alone I haven't said anything bad wtf is wrong with you."
-
-KeeperOfCommitBits: (deletes user's comment), "@patt I mean it. Please refer to the CoC over at (URL to this CoC) if you have questions, but you can consider this an actual warning. I'd appreciate it if you reworded your messages in this thread, since they made folks there uncomfortable. Let's try and be kind, yeah?"
-
-Patt: "@keeperofbits Okay sorry. I'm just frustrated and I'm kinda burnt out and I guess I got carried away. I'll DM Alex a note apologizing and edit my messages. Sorry for the trouble."
-
-KeeperOfCommitBits: "@patt Thanks for that. I hear you on the stress. Burnout sucks :/. Have a good one!"
-
-The Nope Case
-PepeTheFrog🐸: "Hi, I am a literal actual nazi and I think white supremacists are quite fashionable."
-
-Patt: "NOOOOPE. OH NOPE NOPE."
-
-Alex: "ABSOLUTELY NOT, NO. NOPE. @keeperofbits NOPE NOPE LOOK HERE"
-
-KeeperOfCommitBits: "👀 Nope. NOPE NOPE NOPE. 🔥"
-
-PepeTheFrog🐸 has been banned from all organization or user repositories belonging to KeeperOfCommitBits.
-
-Attribution
-This Code of Conduct was generated using WeAllJS Code of Conduct Generator, which is based on the WeAllJS Code of Conduct, which is itself based on Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4, and the LGBTQ in Technology Slack Code of Conduct.
+## Attribution
+This Code of Conduct based on the WeAllJS Code of Conduct, which is itself based on Contributor Covenant, version 1.4,and the LGBTQ in Technology Slack Code of Conduct.
