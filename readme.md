@@ -5,7 +5,7 @@ Android Mobile Application for people to enjoy food more conveniently
 ## Minimum Android Version:
 Android 8.1 (OREO) 
 ## Made With:
-AndroidStudio 3.6
+AndroidStudio 4.0
 Java
 
 ## Tracking:
