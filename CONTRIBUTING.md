@@ -18,3 +18,19 @@ Someone will try to have a response soon.
 ## Report an Error or Bug
 
 #### If you run into an error or bug with the project:
+Provide as much context as you can about what you're running into.
+Provide project and platform versions (java, c++, etc), depending on what seems relevant. If not, please be ready to provide that information if maintainers ask for it.
+The project team will label the issue.
+Someone will try to have a response soon.
+
+## Contribute Documentation
+Documentation is a super important, critical part of this project. Docs are how we keep track of what we're doing, how, and why. It's how we stay on the same page about our policies. And it's how we tell others everything they need in order to be able to use this project -- or contribute to it. So thank you in advance.
+
+Documentation contributions of any size are welcome! Feel free to file a PR even if you're just rewording a sentence to be more clear, or fixing a spelling mistake!
+
+## Contribute Code
+We like code commits a lot! They're super handy, and they keep the project going and doing the work it needs to do to be useful to others.
+
+Code contributions of just about any size are acceptable!
+
+The main difference between code contributions and documentation contributions is that contributing code requires inclusion of relevant tests for the code being added or changed. Contributions without accompanying tests will be held off until a test is added, unless the maintainers consider the specific tests to be either impossible, or way too much of a burden for such a contribution.
