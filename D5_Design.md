@@ -5,15 +5,15 @@ For students and staff, takeaway has always been a good way to solve a meal. Whe
 
 ## 2. Architecture.
   ## Architecture Diagram
-  ![Architecture Diagram](./img/Class Diagram.png)
+  https://github.com/CS386-Team2/MobileApp/blob/master/img/Class%20Diagram.png
   The Server and Android App are the two main modules of our project. They have been split into two different packages They have been split into two different packages. The dotted arrows represent that users have access to both classes. Also, when a package is inside another package it represents they belong to the same larger class. Each class was made into a package and their relationships with each other is shown through the UML package diagram. Additionally, on a larger scale the diagram shows the relationship between the User, Android App, and the Server.
   
 ## 3. Class Diagram 
   ## UML
-  ![refined UML](./img/D5_4.jpg)
+  (./img/D5_4.jpg)
 
 ## 4. Sequence Diagram
-  ![CreateProfile Sequence](./img/Sequence Diagram.jpg) 
+  https://github.com/CS386-Team2/MobileApp/blob/master/img/Sequence%20Diagram.jpg
   Use-Case: Report past order
 Actor: User
 Description: Report problems to customer service
@@ -37,18 +37,20 @@ System returns to order history
 Design Pattern 1: (Creational) Singleton - (link) only one static function submit()
 of the Server class is allowed because of the private variable UserEmail and Password
 
- 
+https://github.com/CS386-Team2/MobileApp/blob/master/img/6.png
 Figure 5.1 - UML diagram of implementation of the UserSignUp method
 
 Design Pattern 2: (Structural) Flyweight - (link) method to retrieve the
 only order object created by the application.
  
+https://github.com/CS386-Team2/MobileApp/blob/master/img/7.png 
 Figure 5.2 - UML Diagram of the implementation of the Flyweight pattern in
 the Usercart class
 
 Design Pattern 3: (Behavioral) Template Method - (link) overrides the
 SearchRestaurant() method in the Restaurant interface
-  
+ 
+https://github.com/CS386-Team2/MobileApp/blob/master/img/8.png
 Figure 5.3 - UML diagram of the implementation of the template pattern in
 the class of find restaurant
 
