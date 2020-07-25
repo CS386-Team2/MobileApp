@@ -5,23 +5,56 @@ For students and staff, takeaway has always been a good way to solve a meal. Whe
 
 ## 2. Architecture.
   ## Architecture Diagram
-  ![Architecture Diagram](./img/Architecture.png)
-  For our architecture we decided to use a layered structure. We found this to be the best option due to it's simplicity and readability. The software can be brokenvdown into a 4 layers which we can work on seperately, this also helps with debugging and testing. This architecture allows us to build our software faster and make it more reliable product in a short period of time. Although the architecture provides alot of benefits, it might prove to be hard to scale due to inherit qualities of it's architecture. Overall, we belive this is the best structure for our app.
+  ![Architecture Diagram](./img/Class Diagram.png)
+  The Server and Android App are the two main modules of our project. They have been split into two different packages They have been split into two different packages. The dotted arrows represent that users have access to both classes. Also, when a package is inside another package it represents they belong to the same larger class. Each class was made into a package and their relationships with each other is shown through the UML package diagram. Additionally, on a larger scale the diagram shows the relationship between the User, Android App, and the Server.
   
 ## 3. Class Diagram 
   ## UML
-  ![refined UML](./img/d5_rfUML.png)
+  ![refined UML](./img/D5_4.jpg)
 
 ## 4. Sequence Diagram
-  ![CreateProfile Sequence](./img/sequenceDiagram.png) 
+  ![CreateProfile Sequence](./img/Sequence Diagram.jpg) 
+  Use-Case: Report past order
+Actor: User
+Description: Report problems to customer service
+Pre-Conditions: The order is entered in The database.
+Post Conditions: Send the report to the customer service client.
+Flow:
+The user enters the purchase history
+The user selects the order to report
+The user enters the report content
+User confirmed report
+The system sends the report to customer service
+Alternative Flows:
+User exits without reporting
+System Prompt whether confirmation
+User confirms
+System returns to order history
+User cancels
+System returns to order history
 
 ## 5. Design Patterns 
-Design Pattern 1: (Creational) Singleton - [link](https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/app/src/main/AndroidManifest.xml/) only one static instance
-of the Userprofile class is allowed because of the private constructor 
+Design Pattern 1: (Creational) Singleton - (link) only one static function submit()
+of the Server class is allowed because of the private variable UserEmail and Password
 
-![UserProfile](./img/UserProfile.png)
+ 
+Figure 5.1 - UML diagram of implementation of the UserSignUp method
+
+Design Pattern 2: (Structural) Flyweight - (link) method to retrieve the
+only order object created by the application.
+ 
+Figure 5.2 - UML Diagram of the implementation of the Flyweight pattern in
+the Usercart class
+
+Design Pattern 3: (Behavioral) Template Method - (link) overrides the
+SearchRestaurant() method in the Restaurant interface
+  
+Figure 5.3 - UML diagram of the implementation of the template pattern in
+the class of find restaurant
+
 
 ## 6. Design Principals
-Single Responsibility: the PlanPurchase will only store the items which we plan to buy. [link](https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/app/src/main/java/com/example/impulseapp/PlanPurchase.java/)
+Single Responsibility Principle: link - UserSignUp class just implements the function of providing user registration.
 
-Dependency Inversion Principle: The code follows this principle because the Server and Data handling do not depend on the clients to do anything. They simply process requests from the user devices and work on enqueuing the request.[link](https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/build.gradle/)
+Open/Closed Principle: link - The code follows this principle because each time a new restaurant is added,the server will change the information automatically. It is also closed because no modifications need to occur.The code not need to modify because it was designed to have the ability to add a new restaurant.
+
