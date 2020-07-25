@@ -57,6 +57,7 @@ the class of find restaurant
 
 ## 6. Design Principals
 Single Responsibility Principle: link - UserSignUp class just implements the function of providing user registration.
+https://github.com/CS386-Team2/MobileApp/blob/master/example.java
 
 Open/Closed Principle: link - The code follows this principle because each time a new restaurant is added,the server will change the information automatically. It is also closed because no modifications need to occur.The code not need to modify because it was designed to have the ability to add a new restaurant.
 
