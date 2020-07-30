@@ -32,7 +32,28 @@ E-Kitchen is a take-away app that allows staff and students who are pressed for 
 ## 3. Demo
 
 ## 4. Code quality 
- 
+Our Policies are: 
+* Follow coding standards
+* Minimize cyclomatic complexity
+* Minimize repetition rate
+* Best Practices
+* Maximum coverage
+* The fastest response time
+* Maximize resource utilization
+* Minimize the number of vulnerabilities
+* Minimize the number of errors
+
+The definition of good code is our conventions: 
+The code logic should be straightforward and there will be no defects; minimize the call with other parts to make it easy to maintain; handle error codes according to layered inspection; optimize performance.
+
+Practices adopted:
+
+Special treatment:
+  Identify the hidden dangers in the current code and choose a good plan to execute
+  
+Regular inspection:
+  Step by step to ensure the quality of the code
+  
 ## 5. Lessons learned  
 * Programming = coding, testing and debugging. Each of them is important when developing a software. But first of all, we need to write code in a good style so that it is easy for us to test and debug the code we are implementing.
 * Code in good quality makes the sofeware more powerful and useful. We have to show beautiful and clean code to make the code have fewer bugs. Also, doing this can make it easy to maintain the software and improve team productivity.
