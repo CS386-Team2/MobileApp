@@ -31,7 +31,7 @@ E-Kitchen is a take-away app that allows staff and students who are pressed for 
 
 ## 3. Demo
 https://youtu.be/41-MQSzkRMc
-Since we don't succeed in writing code for some functions, the software are not updated generally. But we will keep trying to complete these functions and improve our user interface throughout the course. 
+Since we don't succeed in writing code for some functions, the software are not updated generally. But we will keep trying to complete these functions and improve our user interface throughout the course. All team members are committed to figure out these problems we have met.
 
 ## 4. Code quality 
 Our Policies are: 
