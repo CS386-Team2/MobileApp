@@ -5,26 +5,26 @@ E-Kitchen is a take-away app that allows staff and students who are pressed for 
 * Github: https://github.com/CS386-Team2/MobileApp
 * Trello: https://trello.com/b/6AiM2ym4/cs386team2project
 ## 2. Implemented requirements 
-1.Register Feature
-Link to the card on Trello:https://trello.com/b/6AiM2ym4/cs386team2project
-Name of who implemented:Hao Liu
-Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/1
-Name of who reviewed and approved the pull request:Kehan Cao
-2.LogIn Feature
-Link to the card on Trello:https://trello.com/b/6AiM2ym4/cs386team2project
-Name of who implemented:Zhibang Qin
-Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/2
-Name of who reviewed and approved the pull request:Kehan Cao
-3.Order System Feature
-Link to the card on Trello:https://trello.com/b/6AiM2ym4/cs386team2project
-Name of who implemented:YunSong Wang
-Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/3
-Name of who reviewed and approved the pull request:Kehan Cao
-4. Revise all the source code
-Link to the card on Trello:https://trello.com/b/6AiM2ym4/cs386team2project
-Name of who implemented:Kehan Cao
-Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/4/
-Name of who reviewed and approved the pull request:Kehan Cao
+* 1.Register Feature
+* Link to the card on Trello:https://trello.com/b/6AiM2ym4/cs386team2project
+* Name of who implemented:Hao Liu
+* Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/1
+* Name of who reviewed and approved the pull request:Kehan Cao
+* 2.LogIn Feature
+* Link to the card on Trello:https://trello.com/b/6AiM2ym4/cs386team2project
+* Name of who implemented:Zhibang Qin
+* Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/2
+* Name of who reviewed and approved the pull request:Kehan Cao
+* 3.Order System Feature
+* Link to the card on Trello:https://trello.com/b/6AiM2ym4/cs386team2project
+* Name of who implemented:YunSong Wang
+* Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/3
+* Name of who reviewed and approved the pull request:Kehan Cao
+* 4. Revise all the source code
+* Link to the card on Trello:https://trello.com/b/6AiM2ym4/cs386team2project
+* Name of who implemented:Kehan Cao
+* Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/4/
+* Name of who reviewed and approved the pull request:Kehan Cao
 ## 3. Demo
 
 ## 4. Code quality 
