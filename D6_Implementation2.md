@@ -30,6 +30,7 @@ E-Kitchen is a take-away app that allows staff and students who are pressed for 
 * Name of who reviewed and approved the pull request:Kehan Cao
 
 ## 3. Demo
+https://youtu.be/41-MQSzkRMc
 
 ## 4. Code quality 
 Our Policies are: 
@@ -47,11 +48,9 @@ The definition of good code is our conventions:
 The code logic should be straightforward and there will be no defects; minimize the call with other parts to make it easy to maintain; handle error codes according to layered inspection; optimize performance.
 
 Practices adopted:
-
-Special treatment:
+* Special treatment:
   Identify the hidden dangers in the current code and choose a good plan to execute
-  
-Regular inspection:
+* Regular inspection:
   Step by step to ensure the quality of the code
   
 ## 5. Lessons learned  
