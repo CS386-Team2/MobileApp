@@ -20,7 +20,7 @@ E-Kitchen is a take-away app that allows staff and students who are pressed for 
 * Name of who implemented:YunSong Wang
 * Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/3
 * Name of who reviewed and approved the pull request:Kehan Cao
-* 4. Revise all the source code
+* 4.Revise all the source code
 * Link to the card on Trello:https://trello.com/b/6AiM2ym4/cs386team2project
 * Name of who implemented:Kehan Cao
 * Link to the pull request on GitHub:https://github.com/CS386-Team2/MobileApp/pull/4/
