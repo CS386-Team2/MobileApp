@@ -12,7 +12,7 @@ Test Framework: JUnit
 [Unit Test File](./test/AndroidUnitTest.java)
 ### Intergration test
 Test Framework: Mockito
-![img](./img/intergrationtest.png)
+![img](./img/integrationtest.png)
 [Intergration Test File](./test/AndroidIntegrationTest.java)
 ### Acceptance
 Test Framework: Espresso
