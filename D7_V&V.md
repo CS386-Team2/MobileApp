@@ -7,17 +7,17 @@ for them to order food fast and this action will increase our user usage. "E-kit
 
 ## Verification(test)
 ### Unit test
-*Test Framework: JUnit
+Test Framework: JUnit
 ![img](./img/unittest.png)
-*[test file](./test/AndroidUnitTest.java)
+[Unit Test File](./test/AndroidUnitTest.java)
 ### Intergration test
-*Test Framework: Mockito
-![img](./img/intergration.png)
-*[test file](./test/AndroidIntegrationTest.java)
+Test Framework: Mockito
+![img](./img/intergrationtest.png)
+[Intergration Test File](./test/AndroidIntegrationTest.java)
 ### Acceptance
-*Test Framework: Espresso
-![img](./img/acceptance.png)
-*[test file](./test/AndroidAcceptanceTest.java)
+Test Framework: Espresso
+![img](./img/acceptancetest.png)
+[Intergration Test File](./test/AndroidAcceptanceTest.java)
 
 ## Validation(user evaluation)
 * Rate our control fluency and interface design and explain why (Scale of 1 to 10,)
