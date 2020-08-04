@@ -26,6 +26,7 @@ Kobach: Students' control of information technology in the new era is much highe
 Gohmert: Because this software is also developed by students, it can better understand the needs of students, and students need to order take-out food most of the time due to their living habits or pressure from study and work, so I think students are the main consumers.
 
 * Summary:
+
 Interface: Our software interface is relatively simple and has no characteristics. The recognition of the software is not high. We also don't have a software logo, which is easy to be forgotten when compared with products of the same type.
 
 Fluency: Because our software is now in the stage of just being developed, its size is relatively small. The operation of each function is very smooth, there is no sense of lag. The users who participated in the test were also satisfied with the fluency, which is the advantage of our product. In terms of fluency, we need to maintain.
