@@ -2,7 +2,7 @@
 
 ## Description
 
-## Verification(teat)
+## Verification(test)
 * Unit test
 
 * Intergration test
