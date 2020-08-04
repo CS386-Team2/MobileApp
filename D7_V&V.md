@@ -8,16 +8,42 @@ for them to order food fast and this action will increase our user usage. "E-kit
 ## Verification(test)
 ### Unit test
 Test Framework: JUnit
-![img](./img/unittest.png)
-[Unit Test File](./test/AndroidUnitTest.java)
+Link to file:[Unit Test File](./test/AndroidUnitTest.java)
+Example:
+```bash
+	@Test
+    public void TestAnimationUtils() {
+        Context appContext = InstrumentationRegistry.getTargetContext();
+        Animation animation = AnimationUtil.createInAnimation(appContext, 40);
+        assertEquals(400, animation.getDuration());
+    }
+```
+Print screen:![img](./img/unittest.png)
+
 ### Intergration test
 Test Framework: Mockito
-![img](./img/integrationtest.png)
-[Intergration Test File](./test/AndroidIntegrationTest.java)
+Link to file:[Intergration Test File](./test/AndroidIntegrationTest.java)
+Example:
+```bash
+    @Test
+    public void TestDataUtils() {
+        //test data utils
+        GoodsListBean dataList = DataUtils.GsonToBean(DataUtils.data, GoodsListBean.class);
+        assertEquals(2, dataList.getData().size());
+    }
+```
+Print screen:![img](./img/integrationtest.png)
+
 ### Acceptance
 Test Framework: Espresso
-![img](./img/acceptancetest.png)
-[Intergration Test File](./test/AndroidAcceptanceTest.java)
+Link to file:[Intergration Test File](./test/AndroidAcceptanceTest.java)
+```bash
+    @Test
+    public void GoodsFragmentTest() {
+        Espresso.onView(withId(R.id.noShop)).check(matches(withText("购物车为空")));
+    }
+```
+Print screen:![img](./img/acceptancetest.png)
 
 ## Validation(user evaluation)
 * Rate our control fluency and interface design and explain why (Scale of 1 to 10,)
