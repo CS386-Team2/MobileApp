@@ -6,18 +6,18 @@ But the problem we have is that we don't know how to make people find restaurant
 for them to order food fast and this action will increase our user usage. "E-kitchen" shoule be a popular app that can provide detailed information and fast take-out services to make our users have their meals as soon as posible. Unlike doordash which is famous in US, we provide users with detailed information about the food ingredients, cook time and cook progress. These features will let our users know their status of order clearly. Our application requires our users to use a user-name and password to log in. So users can store their address, personal information, order history and paymemt method after logging in. Certainly, users can pay the bill by using guest payment if they don't want to create an account. But if users want to review the order history, they need to create an account to log in the system. Another bright spot of our app is that users can get the refund for the first time in a restaurant if they are not satisfied with the food. But if users order the foof at the same restaurant over two times, they can't get the refund.
 
 ## Verification(test)
-* Unit test
-**Test Framework: JUnit
-**[img](./img/unittest.png)
-**[test file](./test/AndroidUnitTest.java)
-* Intergration test
-**Test Framework: Mockito
-**[img](./img/intergration.png)
-**[test file](./test/AndroidIntegrationTest.java)
-* Acceptance
-**Test Framework: Espresso
-**[img](./img/acceptance.png)
-**[test file](./test/AndroidAcceptanceTest.java)
+### Unit test
+*Test Framework: JUnit
+![img](./img/unittest.png)
+*[test file](./test/AndroidUnitTest.java)
+### Intergration test
+*Test Framework: Mockito
+![img](./img/intergration.png)
+*[test file](./test/AndroidIntegrationTest.java)
+### Acceptance
+*Test Framework: Espresso
+![img](./img/acceptance.png)
+*[test file](./test/AndroidAcceptanceTest.java)
 
 ## Validation(user evaluation)
 * Rate our control fluency and interface design and explain why (Scale of 1 to 10,)
