@@ -7,8 +7,8 @@ for them to order food fast and this action will increase our user usage. "E-kit
 
 ## Verification(test)
 ### Unit test
-Test Framework: JUnit
-Link to file:[Unit Test File](./test/AndroidUnitTest.java)
+Test Framework: JUnit  
+Link to file:[Unit Test File](./test/AndroidUnitTest.java)  
 Example:
 ```bash
 	@Test
@@ -21,8 +21,8 @@ Example:
 Print screen:![img](./img/unittest.png)
 
 ### Intergration test
-Test Framework: Mockito
-Link to file:[Intergration Test File](./test/AndroidIntegrationTest.java)
+Test Framework: Mockito  
+Link to file:[Intergration Test File](./test/AndroidIntegrationTest.java)  
 Example:
 ```bash
     @Test
@@ -35,8 +35,8 @@ Example:
 Print screen:![img](./img/integrationtest.png)
 
 ### Acceptance
-Test Framework: Espresso
-Link to file:[Intergration Test File](./test/AndroidAcceptanceTest.java)
+Test Framework: Espresso  
+Link to file:[Intergration Test File](./test/AndroidAcceptanceTest.java)  
 ```bash
     @Test
     public void GoodsFragmentTest() {
